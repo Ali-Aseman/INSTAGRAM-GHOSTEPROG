@@ -425,7 +425,8 @@ for writing in listme:
 password.close()
 
 
-
+print("==============================================")
+print()
 
 
 normal_color = "\33[00m"
